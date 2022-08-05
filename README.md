@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![snake svg](https://github.com/huixiancheng/huixiancheng/blob/output/github-contribution-grid-snake.svg)
 ![Huixian's GitHub stats](https://github-readme-stats.vercel.app/api?username=huixiancheng&show_icons=true&theme=radical)
+![snake svg](https://github.com/huixiancheng/huixiancheng/blob/output/github-contribution-grid-snake.svg)
+
+
